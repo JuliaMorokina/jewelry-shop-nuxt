@@ -1,0 +1,18 @@
+:root {
+  --color-accent: #a18a68;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-gray: #efefef;
+  --border-color: #d8d8d8;
+  --color-dark-gray: #707070;
+  --font-family: "DM Sans", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  font-family: var(--font-family);
+}
